@@ -1,5 +1,7 @@
 ## Static Blog with NextJS + SSG
 
+https://nextjs-static-blog-sample.vercel.app/
+
 ### Resources
 
 - React 17
